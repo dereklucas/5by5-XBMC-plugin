@@ -1,0 +1,4 @@
+<settings>
+   <setting id="label" type="enum" label="30000" values="none|audio|video|all" default="2"/>
+   <setting id="banner" type="bool" label="30001" default="false"/>
+</settings>
